@@ -1,0 +1,14 @@
+│
+├── src
+│   ├── main
+│   │   └── java
+│   │       └── com
+│   │           └── softwareautomatedsolutions
+│   │               └── App.java
+│   └── test
+│       └── java
+│           └── com
+│               └── softwareautomatedsolutions
+│                   └── AppTest.java
+│
+└── pom.xml
